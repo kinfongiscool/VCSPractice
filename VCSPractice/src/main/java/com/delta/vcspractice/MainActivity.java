@@ -1,12 +1,13 @@
 package com.delta.vcspractice;
 
+import android.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
 
-    String lalalala = "Victor is poop";
+    String lalalala = "Victor is a poo poo";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

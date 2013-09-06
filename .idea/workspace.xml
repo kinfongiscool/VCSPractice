@@ -6,7 +6,48 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="955f1bc0-ffd4-4e86-8807-974fc9ae0d68" name="Default" comment="" />
+    <list default="true" id="955f1bc0-ffd4-4e86-8807-974fc9ae0d68" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\apk\VCSPractice-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\classes\debug\com\delta\vcspractice\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\aidl\debug\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\aidl\debug\inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\aidl\debug\outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\dex\debug\inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\dex\debug\outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeAssets\debug\inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeAssets\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeAssets\debug\outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeResources\debug\inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeResources\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\incremental\mergeResources\debug\outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\libs\VCSPractice-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\libs\VCSPractice-debug.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\manifests\debug\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\menu\main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\values-sw720dp-land\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\values-v11\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\values-v14\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\res\all\debug\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\source\buildConfig\debug\com\delta\vcspractice\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Development\Repositories\VCSPracticeProject\VCSPractice\build\source\r\debug\com\delta\vcspractice\R.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VCSPractice/src/main/java/com/delta/vcspractice/MainActivity.java" afterPath="$PROJECT_DIR$/VCSPractice/src/main/java/com/delta/vcspractice/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="VCSPractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +134,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VCSPractice/src/main/java/com/delta/vcspractice/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.40289256" vertical-offset="0" max-vertical-offset="484">
+            <state line="25" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="0.6832298" vertical-offset="0" max-vertical-offset="483">
               <folding />
             </state>
           </provider>
@@ -361,7 +402,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -372,8 +413,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938075" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -398,6 +439,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Accidentally included build directory. Don't need it." />
+    <option name="LAST_COMMIT_MESSAGE" value="Accidentally included build directory. Don't need it." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -422,7 +465,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VCSPractice/src/main/java/com/delta/vcspractice/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.40289256" vertical-offset="0" max-vertical-offset="484">
+        <state line="25" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="0.6832298" vertical-offset="0" max-vertical-offset="483">
           <folding />
         </state>
       </provider>
